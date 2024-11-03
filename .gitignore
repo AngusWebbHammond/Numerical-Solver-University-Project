@@ -1,0 +1,10 @@
+*.png
+*.xml
+*.iml
+/.idea
+Test.py
+Testing.py
+Main.py
+Num sol of f_transformation.py
+Num sol of f.py
+Numerical Solution of Domain Wall.py
